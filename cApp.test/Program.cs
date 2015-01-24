@@ -10,6 +10,7 @@ namespace cApp.test
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello");
             Console.ReadKey();
         }
     }
